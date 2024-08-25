@@ -1,4 +1,4 @@
-# emoji-signal
+# Emoji-signal
 
 Описание проекта
 
